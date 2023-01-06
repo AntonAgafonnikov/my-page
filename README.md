@@ -16,5 +16,3 @@
 ---
 
 ### The end
-
-theme: minima
