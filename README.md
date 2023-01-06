@@ -14,6 +14,5 @@
 2. Любимый сайт: [netology.ru](https://netology.ru/)
    
 ---
-<font size=7> <center>
-    ***The end***
-</font>
+
+### The end
